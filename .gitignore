@@ -3,3 +3,5 @@ node_modules/
 *.map
 dist/
 info.txt
+# macOS files
+.DS_Store
