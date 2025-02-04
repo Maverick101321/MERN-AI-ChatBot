@@ -1,0 +1,17 @@
+*.map
+info.txt
+
+# macOS files
+.DS_Store
+
+# Ignore environment files
+backend/.env
+
+# Ignore build artifacts
+backend/dist/
+
+# Ignore dependencies
+backend/node_modules/
+
+# Ignore macOS-specific files
+.DS_Store
